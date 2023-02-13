@@ -1,0 +1,2 @@
+class InnerCommentsController < ApplicationController
+end
